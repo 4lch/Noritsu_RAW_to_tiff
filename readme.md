@@ -20,6 +20,10 @@ The script looks for a list of known filesizes/image dimensions in the sizes.py 
 
 The raw files are slightly wider and taller than Noritsu-converted images so it is not possible to use these to guess the raw dimensions.
 
+# The converted images are very dark
+
+That's the way they are. I guess Noritsu does that to prevent clipping.
+
 # Can I get support for this tool ?
 
 You can contact me at    *a d r i e n v e a u @ gmail com* for (paid) support for this tool. I will happily modify it to suit your files, and can create an executable for easier use. It can also be made to work with a simple drag and drop of the folder that contains the images. The code shared here is the quick and dirty thing that worked for my use, it is not really anything final.
